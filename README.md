@@ -44,7 +44,31 @@ Submit your project through the form below:
 | ⭐ 5th | [Md. Abdullah Al Mahi ](https://bd.linkedin.com/in/md-abdullah-al-mahi) | Hinux MFS Payment Gateway  | Base 44 AI and Web development languages and frame work | [ MFS Seamlessly send and receive money between bKash, Nagad, and Rocket, track your transaction history, generate and scan QR codes for instant payments](https://hinux-27af739e.base44.app) | 1120 |
 
 
+### 🏆 Winners – May 2026
+[Download certificates](https://drive.google.com/drive/folders/1QUllkZUclSpoGdybl6MuFDzSbvduFI3A?usp=sharing)
 
+| Rank         | Developer               | Project                    | Tech Stack | About / Links                                                                                                                                                       | C.iD     |
+| ------------ | ----------------------- | -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| 🥇 Champion  | **[Alfaz Mahmud Rizve](https://linkedin.com/en/alfaz-mahmud-rizve)**  | **Urban Harvest Cafe**     | *TBA*      |  https://urbancafe.whoisalfaz.me                                                                  | **2222** |
+| 🥈 Runner-Up | **[Muntasir Bin Monir](https://www.facebook.com/profile.php?id=61585556466978)**  | **Voishper**               | *TBA*      |  https://voishper.lovable.app                                                         | **2221** |
+| 🥈 Runner-Up | **[Saymun Ahmmed Limon](https://www.linkedin.com/in/md-saymun-ahmmed-limon-72955833a)** | **Plant Disease Detector** | *TBA*      |  https://github.com/MdSaymunAhmmedLimon/leaf-desease-detection-AI | **2223** |
+| 🥈 Runner-Up | **[Farjana Akter Tisha](https://www.facebook.com/farjanaakter.tisha.754)** | **Atomic Day**             | *TBA*      | https://atomic-day-copy-c6a83faa.base44.app                                                 | **2224** |
+
+---
+
+## 🎖 Winners Summary
+
+### 🏆 Champion
+
+**Alfaz Mahmud Rizve**
+Project: **Urban Harvest Cafe**
+C.iD: **2222**
+
+### 🥈 Runner-Ups
+
+* **Muntasir Bin Monir** — *Voishper* (C.iD: 2221)
+* **Saymun Ahmmed Limon** — *Plant Disease Detector* (C.iD: 2223)
+* **Farjana Akter Tisha** — *Atomic Day* (C.iD: 2224)
 
 
 
